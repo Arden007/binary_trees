@@ -3,8 +3,8 @@
 /**
  * binary_tree_node - Creation of a binary tree node.
  *@parent: points to the parent of the node.
- *@value:  the value for the node created.
- * Return: the function returns a pointer to the node created on success and NULL when errors occur
+ *@value: the value for the node created.
+ * Return:the function returns a pointer to the node created on success and NULL when errors occur
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {

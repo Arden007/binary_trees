@@ -3,9 +3,8 @@
 /**
  * binary_tree_insert_right - inserts the right-hand node
  *@parent: points to the right-hand node created.
- *@value:  the value for the right-hand node created..
- * Return: the function returns a pointer to the node created on success
- *         and NULL when errors occur or parent node is NULL.
+ *@value: the value for the right-hand node created..
+ * Return: the function returns a pointer to the node created on success and NULL when errors occur or parent node is NULL.
  */
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {

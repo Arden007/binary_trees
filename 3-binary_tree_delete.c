@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_delete - format all the data, eraze the binary tree
- *@tree: points to the main(root) node of the binary tree to delete the entire structure
+ *@tree: points to the main(root) node of the binary tree to delete the entire structure.
  */
 void binary_tree_delete(binary_tree_t *tree)
 {
